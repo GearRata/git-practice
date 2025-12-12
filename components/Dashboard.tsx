@@ -5,6 +5,7 @@ export default function Dashboard() {
     <>
     <div>Title</div>
     <div>Dashboard</div>
+    <div>Data</div>
     </>
   )
 }
