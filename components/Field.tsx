@@ -5,6 +5,7 @@ export default function Field() {
     <>
     <div>Field</div>
     <div>Name</div>
+    <div>Age</div>
     </>
   )
 }
